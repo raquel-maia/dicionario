@@ -27,6 +27,6 @@ Se você tem alguma sugestão ou correção a fazer, sinta-se à vontade para ab
 
 
 ## Esse é o resultado final:
-![image](
+![image](dicionario.png)
 
 Projeto Final do curso EuProgramo Front-End II da Programaria
