@@ -27,4 +27,4 @@ Se você tem alguma sugestão ou correção a fazer, sinta-se à vontade para ab
 ## Esse é o resultado final:
 ![image](dicionario.png)
 
-Projeto Final do curso EuProgramo Front-End II da Programaria. Clique e veja: [Dicionário de Mulheres Negras]([http://seusite.com](https://raquel-maia.github.io/dicionar))
+Projeto Final do curso EuProgramo Front-End II da Programaria. Clique e veja: [Dicionário de Mulheres Negras](https://raquel-maia.github.io/dicionario/)
