@@ -1,13 +1,11 @@
-# Dicionário de Mulheres Negras
+# Dicionário de Mulheres Negras📚
 
 Este projeto tem como objetivo listar todas as mulheres negras que fizeram e ainda fazem parte da história do Brasil e mundo. Utilizei HTML, CSS e JavaScript para criar uma interface intuitiva e fácil de usar.
 
 ## Recursos
 
-- Uma lista completa de mulheres negras importantes
-- Detalhes sobre as realizações e contribuições de cada mulher
-- Filtros para pesquisar mulheres por nome, época e área de atuação
-- Páginas detalhadas para cada mulher com informações adicionais
+- Lista de mulheres negras importantes
+- Detalhes sobre as realizações e contribuições de cada mulher.
 
 ## Como utilizar
 
@@ -29,4 +27,4 @@ Se você tem alguma sugestão ou correção a fazer, sinta-se à vontade para ab
 ## Esse é o resultado final:
 ![image](dicionario.png)
 
-Projeto Final do curso EuProgramo Front-End II da Programaria
+Projeto Final do curso EuProgramo Front-End II da Programaria. Clique e veja: [Dicionário de Mulheres Negras]([http://seusite.com](https://raquel-maia.github.io/dicionar))
